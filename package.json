@@ -1,0 +1,19 @@
+{
+  "name": "babyserver",
+  "version": "1.0.0",
+  "description": "mama's first erver AWWWWW",
+  "main": "devilorangel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lafisher/babyserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lafisher/babyserver/issues"
+  },
+  "homepage": "https://github.com/lafisher/babyserver#readme"
+}
